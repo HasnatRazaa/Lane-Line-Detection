@@ -1,9 +1,7 @@
-🔰 Project 1: Lane Line Detection for Autonomous Driving
----
- GitHub Repo: HasnatRazaa/Lane-Line-Detection
----
+### 🔰 Project 1: Lane Line Detection for Autonomous Driving
 
-## 📝 Description
+📝 Description
+---
 This project implements a Lane Line Detection System for autonomous driving vehicles using traditional computer vision techniques. It identifies lane boundaries in video frames, ensuring that the vehicle stays safely within its lane. Designed for submission as part of an internship task for ITSOLERA.
 
 ---
@@ -11,19 +9,19 @@ This project implements a Lane Line Detection System for autonomous driving vehi
 ## 📂 Files
 task_1.ipynb – Main Jupyter Notebook containing:
 
-Grayscale conversion
+- Grayscale conversion
 
-Gaussian Blur
+- Gaussian Blur
 
-Canny Edge Detection
+- Canny Edge Detection
 
-Region of Interest selection
+- Region of Interest selection
 
-Hough Transform Line Detection
+- Hough Transform Line Detection
 
-Overlaying detected lines onto the original frame
+- Overlaying detected lines onto the original frame
 
-Sample input frames and video (if applicable).
+- Sample input frames and video (if applicable).
 
 ---
 
