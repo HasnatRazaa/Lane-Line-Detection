@@ -1,13 +1,14 @@
 🔰 Project 1: Lane Line Detection for Autonomous Driving
-GitHub Repo: HasnatRazaa/Lane-Line-Detection
+---
+ GitHub Repo: HasnatRazaa/Lane-Line-Detection
 ---
 
-📝 Description
+## 📝 Description
 This project implements a Lane Line Detection System for autonomous driving vehicles using traditional computer vision techniques. It identifies lane boundaries in video frames, ensuring that the vehicle stays safely within its lane. Designed for submission as part of an internship task for ITSOLERA.
 
 ---
 
-📂 Files
+## 📂 Files
 task_1.ipynb – Main Jupyter Notebook containing:
 
 Grayscale conversion
@@ -26,7 +27,7 @@ Sample input frames and video (if applicable).
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3
 
 OpenCV
@@ -38,7 +39,7 @@ Google Colab (Recommended)
 ---
 
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repo:
 
 bash
@@ -53,10 +54,10 @@ Upload a video or image and run all cells to visualize the lane detection result
 ---
 
 
-📸 Output
+## 📸 Output
 Displays the input frame with detected lane lines overlaid in real-time.
 
-✅ Use Case
+## ✅ Use Case
 Self-driving cars
 
 Advanced Driver Assistance Systems (ADAS)
